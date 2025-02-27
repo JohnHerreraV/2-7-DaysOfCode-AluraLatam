@@ -1,4 +1,3 @@
-# 2-7-DaysOfCode-AluraLatam
 💻 Día 2 del reto #7DaysOfCode de AluraLatam 🎯
 
 En este segundo día, trabajé con JavaScript para profundizar en el uso de variables y la interacción con el usuario a través de alert y prompt. 🚀
